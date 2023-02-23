@@ -22,7 +22,7 @@
     Открыта страница логина
     Успешно авторизованный аккаунт Discord
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажимаем кнопку "Sign In with Discord"
     - На странице авторизации Discord нажать "Авторизовать"
@@ -37,7 +37,7 @@
     Открыта страница логина
     Успешно авторизованный аккаунт codebattle
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на свой профиль в правом верхнем углу
     - Нажать "Join Discord"
@@ -66,7 +66,7 @@
   prerequisites:
     Открыта страница рейтинга https://codebattle.hexlet.io/users
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     -  Нажить на заголовок "Rating"
     - Нажить на заголовок "Games played"
@@ -82,7 +82,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Completed games"
   expected-result: |
@@ -95,7 +95,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Completed games"
     - Рядом с любым баттлом нажать "Show"
@@ -110,7 +110,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Create a game"
     - В модальном окне выбрать сложность, time-limit, Game Type, Task, tags
@@ -125,7 +125,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Create a game"
     - В модальном окне выбрать сложность, time-limit, Game Type, Task, tags
@@ -141,7 +141,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Create a game"
     - В модальном окне выбрать сложность, time-limit, Game Type, Task, tags
@@ -158,7 +158,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажать на "Create a game"
     - В модальном окне выбрать сложность, time-limit, Game Type, Task, tags
@@ -174,7 +174,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "Lobby"
     - Нажать на кнопку "Show" напротив лобби, где есть оба соперника
@@ -188,7 +188,7 @@
   prerequisites:
     Открыта главная страница
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "Tournaments"
     - Нажать на гиперссылку "You may want to create one"
@@ -205,7 +205,7 @@
     Открыта главная страница
     Успешно авторизованный аккаунт codebattle
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "Lobby"
     - Напротив открытого баттла нажать "Fight"
@@ -222,7 +222,7 @@
     Открыта главная страница
     Успешно авторизованный аккаунт codebattle
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "Lobby"
     - Напротив открытого баттла нажать "Fight"
@@ -238,7 +238,7 @@
     Открыта главная страница
     Успешно авторизованный аккаунт codebattle
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "COMPLETED GAMES"
   expected-result: |
@@ -252,7 +252,7 @@
     Открыта главная страница
     Успешно авторизованный аккаунт codebattle
   test-data: |
-    Логин = login Пароль = password
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Выбрать вкладку "Lobby"
     - Напротив открытого лобби нажать "Fight"
@@ -282,7 +282,7 @@
   prerequisites: |
     Открыта главная страница codebattle с вкладкой "Lobby" в мобильном браузере. Аккаунт авторизован.
   test-data: |
-    Логин = kirill_github Пароль = password_github
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
   steps:
     - Нажимаем на вкладку "Tournaments"
     - Нажимаем на вкладку "Completed games"
@@ -304,3 +304,71 @@
     - Нажать "Press check solution or press give up"
   expected-result: |
     Все страницы отображаются корректно и функционал работает
+    
+- summary: |
+    Возможность видеть редактор с кодом у соперника
+  requirement: |
+    Оба игрока видят друг у друга редактор с кодом, вывод тестов
+  prerequisites: |
+    Открыта главная страница
+    Успешно авторизованный аккаунт codebattle
+  test-data: |
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
+  steps:
+    - Создать новую игру
+  expected-result: |
+    Пользователь может видеть редактор кода соперника и вывод тестов
+    
+- summary: |
+    Возможность играть с ботом 
+  requirement: |
+    В игру можно играть с ботом 
+  prerequisites: |
+    Открыта главная страница
+    Успешно авторизованный аккаунт codebattle
+  test-data: |
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
+  steps:
+    - Нажать на "Create a game"
+    - В модальном окне выбрать "With a bot"
+    - Нажать "Create battle"
+  expected-result: |
+    Игра запускается вместе с ботом 
+    
+- summary: |
+    Возможность играть с другом 
+  requirement: |
+    В игру можно играть с другом (по ссылке)
+  prerequisites: |
+    Открыта главная страница
+    Успешно авторизованный 1 аккаунт codebattle
+  test-data: |
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
+  steps:
+    - Нажать на "Create a game"
+    - В модальном окне выбрать "With a friend"
+    - Под заголовком "Choose opponent" написать имя пользователя
+    - Нажать "Create Invite"
+    - Авторизоваться с другого аккаунта в codebattle на который пришел invite
+    - Принять приглашение
+  expected-result: |
+    Игра запускается вместе с другом
+    
+    - summary: |
+    Возможность играть с другом 
+  requirement: |
+    В игру можно играть с другом (по ссылке)
+  prerequisites: |
+    Открыта главная страница
+    Успешно авторизованный 1 аккаунт codebattle
+  test-data: |
+    Логин = jepavi8353@wiroute.com Пароль = qwerty123
+  steps:
+    - Нажать на "Create a game"
+    - В модальном окне выбрать "With a friend"
+    - Под заголовком "Choose opponent" написать имя пользователя
+    - Нажать "Create Invite"
+    - Авторизоваться с другого аккаунта в codebattle на который пришел invite
+    - Принять приглашение
+  expected-result: |
+    Игра запускается вместе с другом
