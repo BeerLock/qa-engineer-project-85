@@ -1,96 +1,96 @@
 ---
 - summary: |
     Успешная авторизация через GitHub
-- status: pass
+  status: pass
 
 - summary: |
     Успешная авторизация через Discord
-- status: pass
+  status: pass
 
 - summary: |
     Возможность голосового чата участников через Discord
-- status: pass
+  status: pass
 
 - summary: |
     Проверка входа пользователя с несуществующими логином
-- status: pass
+  status: pass
 
 - summary: |
     Возможность сортировки рейтинга по рейтингу, количеству игр и т.д.
-- status: fail
+  status: fail
 
 - summary: |
     Возможность просмотра истории баттлов
-- status: pass
+  status: pass
 
 - summary: |
     Возможность просмотра повтора баттла
-- status: pass
+  status: pass
 
 - summary: |
     Возможность кастомизации при создании лобби - сложность, задача,тип, теги и временной лимит
-- status: pass
+  status: pass
 
 - summary: |
     Возможность выбора языка программирования в терминале баттла
-- status: pass
+  status: pass
 
 - summary: |
     Мультиязычность задач (русский и английский)
-- status: pass
+  status: pass
 
 - summary: |
     Уведомление о начале баттла
-- status: fail
+  status: fail
 
 - summary: |
     Возможность просмотра баттла зрителям в режиме online
-- status: pass
+  status: pass
 
 - summary: |
     Возможность организации турниров
-- status: fail
+  status: fail
 
 - summary: |
     Возможность переподключения участника к баттлу
-- status: pass
+  status: pass
 
 - summary: |
     После определения победителя должна быть возможность остаться в баттле и дописать код / ознакомиться с кодом
-- status: pass
+  status: pass
 
 - summary: |
     В истории есть иконка напротив никнейма, указывающая на победителя баттла
-- status: pass
+  status: pass
 
 - summary: |
     Участник не может писать и изменять код соперника
-- status: pass
+  status: pass
 
 - summary: |
     Успешная авторизация через GitHub в мобильной версии
-- status: pass
+  status: pass
 
 - summary: |
     Корректное отображение основных страниц и функций в мобильной версии сайта
-- status: pass
+  status: pass
 
 - summary: |
     Возможность видеть редактор с кодом у соперника
-- status: pass
+  status: pass
 
 - summary: |
     Возможность играть с ботом
-- status: pass
+  status: pass
 
 - summary: |
     Возможность играть с другом
-- status: pass
+  status: pass
 
 - summary: |
     Возможность общаться во время игры
-- status: pass
+  status: pass
 
 - summary: |
     Возможность просматривать список рейтинга
-- status: pass
+  status: pass
